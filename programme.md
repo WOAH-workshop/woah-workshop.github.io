@@ -12,7 +12,7 @@ Thursday, July 13, 2023 (Toronto time)
 
 09:15 - 09:45 Invited Talk 1 - Dirk Hovy
 
-09:45 - 10:15 Invited Talk 2 - Milagros Miceli
+09:45 - 10:15 Invited Talk 2 - Vinodkumar Prabhakaran
 
 10:15 - 11:45 In-Person Poster Session
 
@@ -58,6 +58,42 @@ Katerina Korre, John Pavlopoulos, Jeffrey Sorensen, Léo Laugier, Ion Androutsop
 - *Robust Hate Speech Detection in Social Media: A Cross-Dataset Empirical Evaluation*<br>
 Dimosthenis Antypas and Jose Camacho-Collados
 
+- *[Findings] Responsibility Perspective Transfer for Italian Femicide News*<br>
+Gosse Minnema, Huiyuan Lai, Benedetta Muscato and Malvina Nissim
+
+- *[Findings] Scientific Fact-Checking: A Survey of Resources and Approaches*<br>
+Juraj Vladika and Florian Matthes
+
+- *[Findings] A New Task and Dataset on Detecting Attacks on Human Rights Defenders*<br>
+Shihao Ran, Di Lu, Aoife Cahill, Joel Tetreault and Alejandro Jaimes
+
+- *[Findings] ClaimDiff: Comparing and Contrasting Claims on Contentious Issues*<br>
+Miyoung Ko, Ingyu Seong, Hwaran Lee, Joonsuk Park, Minsuk Chang and Minjoon Seo
+
+- *[Findings] Which Examples Should be Multiply Annotated? Active Learning When Annotators May Disagree*<br>
+Connor T Baumler, Anna Sotnikova and Hal Daumé III
+
+- *[Findings] Playing the Part of the Sharp Bully: Generating Adversarial Examples for Implicit Hate Speech Detection*<br>
+Nicolas Benjamin Ocampo, Elena Cabrio and Serena Villata
+
+- *[Findings] Disagreement Matters: Preserving Label Diversity by Jointly Modeling Item and Annotator Label Distributions with DisCo*<br>
+Tharindu Cyril Weerasooriya, Alexander Ororbia, Raj B Bhensadadia, Ashiqur KhudaBukhsh and Christopher Homan
+
+- *[Findings] It’s not Sexually Suggestive; It’s Educative | Separating Sex Education from Suggestive Content on TikTok videos*<br>
+Enfa Rose George and Mihai Surdeanu
+
+- *[Findings] Debiasing should be Good and Bad*<br>
+Robert A. Morabito, Jad Kabbara and Ali Emami
+
+- *[Findings] The State of Profanity Obfuscation in Natural Language Processing Scientific Publications*<br>
+Debora Nozza and Dirk Hovy
+
+- *[Findings] COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements*<br>
+Xuhui Zhou, Hao Zhu, Akhila Yerukola, Thomas Davidson, Jena D. Hwang, Swabha Swayamdipta and Maarten Sap
+
+- *[Findings] Stereotypes and Smut: The (Mis)representation of Non-cisgender Identities by Text-to-Image Models*<br>
+Eddie L. Ungless, Bjorn Ross and Anne Lauscher
+
 11:45 - 12:15 Invited Talk 3 - Maarten Sap
 
 12:15 - 13:30 Lunch Break
@@ -79,11 +115,9 @@ Anh V. Vu, Lydia Wilson, Yi Ting Chua, Ilia Shumailov and Ross Anderson
 - *HOMO-MEX: A Mexican Spanish Annotated Corpus for LGBT+phobia Detection on Twitter*<br>
 Juan Vásquez, Scott Andersen, Gemma Bel-enguix, Helena Gómez-adorno and Sergio-luis Ojeda-trueba
 
-15:00 - 15:30 Invited Talk 5 - Vinodkumar Prabhakaran
-
 15:30 - 15:45 Coffee Break
 
-15:45 - 16:15 Invited Talk 6 - Lauren Klein
+15:45 - 16:15 Invited Talk 5 - Lauren Klein
 
 16:15 - 17:15 Panel Discussion
 
