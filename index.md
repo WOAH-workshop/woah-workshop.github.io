@@ -17,7 +17,7 @@ To submit your paper please use this [submission link](https://softconf.com/naac
 
 ## Important Dates
 - Paper submission deadline to softconf: <s>March 10th</s> **March 18th, 2024 23:59 Anywhere on Earth**<br/>
-- Notification of acceptance: April 14th, 2024<br/>
+- Notification of acceptance: <s>April 14th</s> April 16th, 2024<br/>
 - Camera-ready papers due: April 24th 2024<br/>
 - Workshop dates: June 20, 2024<br/>
 <br/><br/>
