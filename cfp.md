@@ -11,6 +11,8 @@ rank: 1
 
 *Notification of acceptance*:       April 14, 2024
 
+*Findings of NAACL paper submission due*: April 21, 2024
+
 *Camera-ready papers due*: 	April 24, 2024
 
 *Workshop*: 			June 20, 2024
@@ -37,6 +39,10 @@ The workshop will accept three types of papers.
 1. **Academic Papers (long and short)**: Long papers of up to 8 pages, excluding references, and short papers of up to 4 pages, excluding references. Unlimited pages for references and appendices. Accepted papers will be given an additional page of content to address reviewer comments. Previously published papers cannot be accepted.
 2. **Non-Archival Submissions**: Up to 2 pages, excluding references, to summarise and showcase in-progress work and work  published elsewhere.
 3. **Civil Society Reports**: Non-archival submissions, with a minimum of 2 pages and no upper limit. Can include work published elsewhere.
+
+# Findings of NAACL 2024
+
+The workshop will accept non-archival submissions for relevant papers accepted to the Findings of NAACL 2024. These papers will be presented on the workshop day as posters along with the regular archival submissions. If you would like to present your Findings paper at WOAH, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfckOpp53ajZ0_v6IOCp1akH1P3qDf5FXHsM4D7PJZtRFlsDQ/viewform) by April 21, 2024.
 
 # Format and styling
 
