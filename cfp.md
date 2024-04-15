@@ -9,7 +9,7 @@ rank: 1
 
 *ARR reviewed submission due*: April 7, 2024
 
-*Notification of acceptance*:       April 14, 2024
+*Notification of acceptance*:       April 16, 2024
 
 *Findings of NAACL paper submission due*: April 21, 2024
 
