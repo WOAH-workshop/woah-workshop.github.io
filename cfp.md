@@ -13,7 +13,7 @@ rank: 1
 
 *Findings of NAACL paper submission due*: April 21, 2024
 
-*Camera-ready papers due*: 	April 24, 2024
+*Camera-ready papers due*: 	April 26, 2024
 
 *Workshop*: 			June 20, 2024
 
