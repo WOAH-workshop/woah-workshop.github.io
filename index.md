@@ -43,7 +43,14 @@ TBA
 <br/><br/>
 
 ## Sponsors
-TBA
+
+**Diamond Tier**
+
+<img src="assets/img/diamond.png"  width="50%" height="50%">
+
+**Gold Tier**
+
+<img src="assets/img/gold2024.png"  width="30%" height="30%">
 <br/><br/>
 
 
