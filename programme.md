@@ -24,8 +24,6 @@ rank: 4
 
 - *Comparing LLM ratings of conversational safety with human annotators*<br>
 
-- *An Interactive Framework for Profiling News Media Sources*<br>
-
 - *The Mexican Gayze: A Computational Analysis of the Attitudes towards the LGBT+ Population in Mexico on Social Media Across a Decade*<br>
 
 - *Improving Aggressiveness Detection using a Data Augmentation Technique based on a Diffusion Language Model*<br>
@@ -36,11 +34,11 @@ rank: 4
 
 - *SGHateCheck: Functional Tests for Detecting Hate Speech in Low-Resource Languages of Singapore*<br>
 
-- *MisgenderMender: A Community-Informed Approach to Interventions for Misgendering*<br>
-
 - *Investigating radicalisation indicators in online extremist communities*<br>
 
 - *Detection of Conspiracy Theories Beyond Keyword Bias in German-Language Telegram Using Large Language Models*<br>
+
+- *VIDA: The Visual Incel Data Archive. A Theory-oriented Annotated Dataset To Enhance Hate Detection Through Visual Culture*<br>
 
 - *Does Prompt Engineering Matter for LLM-based Toxicity and Rumor Stance Detection? Evidence from a Large-scale Experiment*<br>
 
@@ -64,9 +62,13 @@ rank: 4
 
 - *Improving Covert Toxicity Detection by Retrieving and Generating References*<br>
 
-- *Tokenization Matters: Navigating Data-Scarce Tokenization for Gender Inclusive Language Technologies*<br>
-
 - *Improving Covert Toxicity Detection by Retrieving and Generating References*<br>
+
+- *[NAACL 2024] MisgenderMender: A Community-Informed Approach to Interventions for Misgendering*<br>
+
+- *[NAACL 2024] An Interactive Framework for Profiling News Media Sources*<br>
+
+- *[Findings] Tokenization Matters: Navigating Data-Scarce Tokenization for Gender Inclusive Language Technologies*<br>
 
 12:30 - 13:45: Lunch
 
