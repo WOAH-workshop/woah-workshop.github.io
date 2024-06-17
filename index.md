@@ -13,7 +13,7 @@ Join us in person **from 9am in Room Alberto 3 at Hilton Reforma Mexico City** o
 
 <br/><br/>
 
-## Tentative Schedule
+## Schedule
 09:00 - 09:15: Opening Remarks
 
 09:15 - 09:45: Invited Talk 1: Alicia Parrish (Google)
@@ -32,7 +32,7 @@ Join us in person **from 9am in Room Alberto 3 at Hilton Reforma Mexico City** o
 
 14:15 - 14:30: Outstanding Paper - *The Uli Dataset: An Exercise in Experience Led Annotation of oGBV*
 
-14:45 - 15:20: Lightning Talks by remote presenters (see detailed talks [here](https://www.workshopononlineabuse.com/programme.html))
+14:45 - 15:30: Lightning Talks by remote presenters (see detailed talks [here](https://www.workshopononlineabuse.com/programme.html))
 
 15:30 - 16:00: Invited Talk 5: Yacine Jernite (Hugging Face)
 
@@ -40,7 +40,7 @@ Join us in person **from 9am in Room Alberto 3 at Hilton Reforma Mexico City** o
 
 16:45 - 17:45: Panel Discussion - *Online Harms in the Age of Large Language Models*
 
-17:15 - 17:25: Closing Remarks
+17:45 - 17:55: Closing Remarks
 <br/><br/>
 
 ## Invited Speakers
