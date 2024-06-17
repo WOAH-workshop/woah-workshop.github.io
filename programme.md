@@ -4,7 +4,7 @@ title: Detailed Schedule
 rank: 4
 ---
 
-## <span style="color:#267CB9"> Schedule </span>
+## <span style="color:#267CB9"> Tentative Schedule </span>
 
 09:00 - 09:15: Opening Remarks
 
@@ -52,7 +52,9 @@ rank: 4
 
 - *Web Retrieval Agents for Evidence-Based Misinformation Detection*<br>
 
-- *AustroTox: A Dataset for Target-Based Austrian German and English Offensive Language Detection*<br>
+- *AustroTox: A Dataset for Target-Based Austrian German and English Offensive Language Detection*<be>
+
+- *A Strategy Labelled Dataset of Counterspeech*<br>
 
 - *Toxicity Classification in Ukrainian*<br>
 
@@ -74,9 +76,7 @@ rank: 4
 
 13:45 - 14:15: Invited Talk 4: Seraphina Goldfarb-Tarrant (Cohere)
 
-14:15 - 14:30: Outstanding Paper #1 - *HateModerate: Testing Hate Speech Detectors against Content Moderation Policies*
-
-14:30 - 14:45: Outstanding Paper #2 - *The Uli Dataset: An Exercise in Experience Led Annotation of oGBV*
+14:15 - 14:30: Outstanding Paper - *The Uli Dataset: An Exercise in Experience Led Annotation of oGBV*
 
 14:45 - 15:20: Lightning Talks by remote presenters
 
