@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Organizers
+title: Organisers
 rank: 2
 ---
 
-## <span style="color:#267CB9"> Organizers</span>
+## <span style="color:#267CB9"> Organisers</span>
 
 * [Paul Röttger](https://paulrottger.com/), Bocconi University
 
