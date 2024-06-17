@@ -4,7 +4,7 @@ title: Detailed Schedule
 rank: 4
 ---
 
-## <span style="color:#267CB9"> Tentative Schedule </span>
+## <span style="color:#267CB9"> Schedule </span>
 
 09:00 - 09:15: Opening Remarks
 
@@ -78,7 +78,7 @@ rank: 4
 
 14:15 - 14:30: Outstanding Paper - *The Uli Dataset: An Exercise in Experience Led Annotation of oGBV*
 
-14:45 - 15:20: Lightning Talks by remote presenters
+14:45 - 15:30: Lightning Talks by remote presenters
 
 - *A Study of the Class Imbalance Problem in Abusive Language Detection*<br>
 Yaqi Zhang, Viktor Hangya and Alexander Fraser
@@ -123,4 +123,4 @@ Ryan Brate, Marieke van Erp and Antal P.J. van den Bosch
 
 16:45 - 17:45: Panel Discussion - *Online Harms in the Age of Large Language Models*
 
-17:15 - 17:25: Closing Remarks
+17:45 - 17:55: Closing Remarks
