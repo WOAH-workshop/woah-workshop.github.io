@@ -30,7 +30,7 @@ Join us in person **from 9am in Room Alberto 3 at Hilton Reforma Mexico City** o
 
 13:45 - 14:15: Invited Talk 4: Seraphina Goldfarb-Tarrant (Cohere)
 
-14:15 - 14:30: Outstanding Paper - *The Uli Dataset: An Exercise in Experience Led Annotation of oGBV*
+14:15 - 14:30: Outstanding Paper
 
 14:45 - 15:30: Lightning Talks by remote presenters (see detailed talks [here](https://www.workshopononlineabuse.com/programme.html))
 
