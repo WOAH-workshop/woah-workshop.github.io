@@ -64,7 +64,7 @@ rank: 4
 
 - *Improving Covert Toxicity Detection by Retrieving and Generating References*<br>
 
-- *Improving Covert Toxicity Detection by Retrieving and Generating References*<br>
+- *Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis*<br>
 
 - *[NAACL 2024] MisgenderMender: A Community-Informed Approach to Interventions for Misgendering*<br>
 
