@@ -76,7 +76,7 @@ rank: 4
 
 13:45 - 14:15: Invited Talk 4: Seraphina Goldfarb-Tarrant (Cohere)
 
-14:15 - 14:30: Outstanding Paper - *The Uli Dataset: An Exercise in Experience Led Annotation of oGBV*
+14:15 - 14:30: Outstanding Paper
 
 14:45 - 15:30: Lightning Talks by remote presenters
 
