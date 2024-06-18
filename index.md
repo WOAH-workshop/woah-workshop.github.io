@@ -9,7 +9,7 @@ The 8th Workshop on Online Abuse and Harms (WOAH) is taking place on **June 20 2
 
 The special theme for this year is **Online Harms in the Age of Large Language Models**.
 
-Join us in person **from 9am in Room Alberto 3 at Hilton Reforma Mexico City** or watch online via [this link](https://us06web.zoom.us/j/83509919075?pwd=7BxGYaSd2sbE5kIwanEWIS54Imrvcd.1).
+Join us in person **from 9 am in Room Alberto 3 at Hilton Reforma Mexico City** or watch online via Zoom (link available on Underline).
 
 <br/><br/>
 
