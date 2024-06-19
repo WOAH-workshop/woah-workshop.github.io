@@ -64,13 +64,15 @@ rank: 4
 
 - *Improving Covert Toxicity Detection by Retrieving and Generating References*<br>
 
-- *Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis*<br>
+- *[NAACL 2024] Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis*<br>
 
 - *[NAACL 2024] MisgenderMender: A Community-Informed Approach to Interventions for Misgendering*<br>
 
 - *[NAACL 2024] An Interactive Framework for Profiling News Media Sources*<br>
 
 - *[Findings] Tokenization Matters: Navigating Data-Scarce Tokenization for Gender Inclusive Language Technologies*<br>
+
+- *[Findings] HateModerate: Testing Hate Speech Detectors against Content Moderation Policies*<br>
 
 12:30 - 13:45: Lunch
 
