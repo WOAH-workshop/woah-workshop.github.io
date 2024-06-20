@@ -9,7 +9,7 @@ The 8th Workshop on Online Abuse and Harms (WOAH) is taking place on **June 20 2
 
 The special theme for this year is **Online Harms in the Age of Large Language Models**.
 
-Join us in person **from 9 am in Room Alberto 3 at Hilton Reforma Mexico City** or watch online via Zoom (link available on Underline).
+Join us in person **from 9am in Room Alberto 3 at Hilton Reforma Mexico City** or watch online via Zoom (link available on Underline).
 
 <br/><br/>
 
@@ -32,15 +32,15 @@ Join us in person **from 9 am in Room Alberto 3 at Hilton Reforma Mexico City** 
 
 14:15 - 14:30: Outstanding Paper
 
-14:45 - 15:30: Lightning Talks by remote presenters (see detailed talks [here](https://www.workshopononlineabuse.com/programme.html))
+14:30 - 15:15: Lightning Talks by remote presenters (see detailed talks [here](https://www.workshopononlineabuse.com/programme.html))
 
-15:30 - 16:00: Invited Talk 5: Yacine Jernite (Hugging Face)
+15:15 - 15:45: Invited Talk 5: Yacine Jernite (Hugging Face)
 
-16:00 - 16:45: Break
+15:45 - 16:30: Break
 
-16:45 - 17:45: Panel Discussion - *Online Harms in the Age of Large Language Models*
+16:30 - 17:30: Panel Discussion - *Online Harms in the Age of Large Language Models*
 
-17:45 - 17:55: Closing Remarks
+17:30 - 17:40: Closing Remarks
 <br/><br/>
 
 ## Invited Speakers
@@ -66,7 +66,7 @@ Join us in person **from 9 am in Room Alberto 3 at Hilton Reforma Mexico City** 
 
 ## Sponsors
 
-WOAH appreciates the support from the following sponsors:
+WOAH is grateful for support from the following sponsors:
 
 **Diamond Tier**
 
