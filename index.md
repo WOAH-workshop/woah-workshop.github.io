@@ -16,25 +16,25 @@ Join us in person **from 9am in Room Alberto 3 at Hilton Reforma Mexico City** o
 ## Schedule
 09:00 - 09:15: Opening Remarks
 
-09:15 - 09:45: Invited Talk 1: Alicia Parrish (Google)
+09:15 - 09:45: Invited Talk 1: Alicia Parrish (Google): "Diversity in Raters and Data for Understanding Safety across Modalities"
 
-09:45 - 10:15: Invited Talk 2: Lama Ahmad (OpenAI)
+09:45 - 10:15: Invited Talk 2: Lama Ahmad (OpenAI): "The Evolution of Expert Red Teaming at OpenAI"
 
 10:15 - 10:30: Mini Break
 
-10:30 - 11:00: Invited Talk 3: Apostol Vassilev (NIST)
+10:30 - 11:00: Invited Talk 3: Apostol Vassilev (NIST): "GenAI: The Good, the Bad, and the Ugly. Calculus for the Future:
 
 11:00 - 12:30: Poster Session (see details [here](https://www.workshopononlineabuse.com/programme.html))
 
 12:30 - 13:45: Lunch
 
-13:45 - 14:15: Invited Talk 4: Seraphina Goldfarb-Tarrant (Cohere)
+13:45 - 14:15: Invited Talk 4: Seraphina Goldfarb-Tarrant (Cohere): "Evaluating and Mitigating LLM Harms: How it’s Broken and What We Can Do"
 
 14:15 - 14:30: Outstanding Paper
 
 14:30 - 15:15: Lightning Talks by remote presenters (see detailed talks [here](https://www.workshopononlineabuse.com/programme.html))
 
-15:15 - 15:45: Invited Talk 5: Yacine Jernite (Hugging Face)
+15:15 - 15:45: Invited Talk 5: Yacine Jernite (Hugging Face): "Addressing Harms Beyond Alignment: Considerations for a Value Pluralist Approach"
 
 15:45 - 16:30: Break
 
