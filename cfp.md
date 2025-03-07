@@ -35,7 +35,7 @@ In addition, we invite submissions related to the theme for this ninth edition o
 
 Submission is electronic, using the Softconf START conference management system.
 
-Submission link: https://softconf.com/acl2025/woah2025/
+Submission link: [https://softconf.com/acl2025/woah2025/](https://softconf.com/acl2025/woah2025/)
 
 The workshop will accept three types of papers.
 1. **Academic Papers (long and short)**: Long papers of up to 8 pages, excluding references, and short papers of up to 4 pages, excluding references. Unlimited pages for references and appendices. Accepted papers will be given an additional page of content to address reviewer comments. Previously published papers cannot be accepted.
