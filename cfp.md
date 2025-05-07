@@ -42,6 +42,8 @@ The workshop will accept three types of papers.
 2. **Non-Archival Submissions**: Up to 2 pages, excluding references, to summarise and showcase in-progress work and work  published elsewhere.
 3. **Civil Society Reports**: Non-archival submissions, with a minimum of 2 pages and no upper limit. Can include work published elsewhere.
 
+ARR reviewed submission link: [https://forms.gle/4C82CTK9Ee8cKK3QA](https://forms.gle/4C82CTK9Ee8cKK3QA)
+
 # Format and styling
 
 All submissions must use the official ACL two-column format, using the supplied official style files. The templates can be downloaded in [Style Files and Formatting](https://github.com/acl-org/acl-style-files). Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. All submissions should adhere to the [workshop policies](https://www.workshopononlineabuse.com/policies.html).
