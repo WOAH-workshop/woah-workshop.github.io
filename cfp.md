@@ -13,7 +13,7 @@ rank: 1
 
 *Camera-ready papers due*: 	June 13, 2025
 
-*Workshop*: 			July 31 - August 1, 2025
+*Workshop*: 			August 1, 2025
 
 # Overview
 
