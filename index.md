@@ -38,7 +38,7 @@ In addition, we invite submissions related to the theme for this ninth edition o
 
 **Platinum Tier**
 
-<img src="assets/img/diamond.png"  width="50%" height="50%">
+<img src="assets/img/platinum_2025.png"  width="50%" height="50%">
 <br/><br/>
 
 ## Contact
