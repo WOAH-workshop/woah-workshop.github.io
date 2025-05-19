@@ -63,7 +63,7 @@ We are not enforcing any anonymity period.
 
 # Multiple Submissions Policy
 
-The workshop allows for multiple submissions. Work that has been presented, or will be presented, at other venues may also be submitted as non-archival. This includes work that will be presented at the NAACL 2024 main conference, or is accepted in Findings of NAACL.
+The workshop allows for multiple submissions. Work that has been presented, or will be presented, at other venues may also be submitted as non-archival. This includes work that will be presented at the ACL 2025 main conference, or is accepted in Findings of ACL.
 
 # Contact Info
 
