@@ -30,6 +30,8 @@ Finally, I will talk about emerging safety risks in large language models and ho
 **Title:** *The Seduction of Detection: CSAM, Automation, and the Politics of Detection*  
 **Speaker:** Kate Sim  
 **Abstract:**  
-TBD
+The detection of child sexual abuse materials, or CSAM, occupies a central place in the history and landscape of commercial content moderation. CSAM viscerally conjures up images of innocent children locked in cages and beckons us to assume the role of a detective. Hash matching and classifiers become our magnifying glasses, like forensic tools that capture undeniable proofs of human malice. The allure of detection is seductive. The seductiveness stems from its many promises: the promise of evidentiary certainty; the promise of justice; and the promise of doing good. But what exactly is being detected? What happens after detection? Who or what is the detection in service of? By interrogating the sociotechnical promises embedded in the expanding apparatus of CSAM detection, this talk examines what happens when we reconfigure abuse as a piece of content and develop a global ecosystem preoccupied with searching within the four corners of an image. 
+
+**⚠️ Trigger Warning:** child sexual abuse.
 
 ---
