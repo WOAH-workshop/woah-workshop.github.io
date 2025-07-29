@@ -23,6 +23,12 @@ rank: 1
 
 ---
 
+## 📄 Proceedings
+
+You can access the full proceedings of the workshop [here (PDF)](https://aclanthology.org/2025.woah-1.0.pdf).
+
+---
+
 ## 🖼️ Poster Presentations
 
 - **A Comprehensive Taxonomy of Bias Mitigation Methods for Hate Speech Detection**  
