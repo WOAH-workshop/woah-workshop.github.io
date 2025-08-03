@@ -29,6 +29,18 @@ You can access the full proceedings of the workshop [here (PDF)](https://aclanth
 
 ---
 
+## 🏆 Awards
+
+### 🥇 Best Paper Award  
+**Title:** _From civility to parity: Marxist-feminist ethics for context-aware algorithmic content moderation_  
+**Authors:** Dayei Oh
+
+### 🌟 Best Theme Paper Award  
+**Title:** _Catching Stray Balls: Football, fandom, and the impact on digital discourse_  
+**Authors:** Mark J. Hill
+
+---
+
 ## 🖼️ Poster Presentations
 
 - **A Comprehensive Taxonomy of Bias Mitigation Methods for Hate Speech Detection**  
@@ -37,7 +49,7 @@ You can access the full proceedings of the workshop [here (PDF)](https://aclanth
 - **Sensitive Content Classification in Social Media: A Holistic Resource and Evaluation**  
   *Dimosthenis Antypas, Indira Sen, Carla Perez Almendros, Jose Camacho-Collados, Francesco Barbieri*
 
-- **A Novel Dataset for Classifying German Hate Spe**  
+- **A Novel Dataset for Classifying German Hate Speech**  
   *Vincent Kums, Florian Meyer, Luisa Emily Pivit, Uliana Vedenina, Jonas Wortmann, Melanie Siegel, Dirk Labudde*
 
 - **Learning from Disagreement: Entropy-Guided Few-Shot Selection for Toxic Language Detection**  
