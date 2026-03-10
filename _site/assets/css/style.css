@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bowlby+One+SC&family=Inter:wght@400;500;700&display=swap");
 @font-face {
   font-family: "Noto Sans";
   font-weight: 400;
@@ -305,14 +307,22 @@
 body {
   background-color: #fff;
   padding: 50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #727272;
+  font: 15px/1.6 "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #4a4a4a;
   font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #222;
   margin: 0 0 20px;
+  letter-spacing: 0.08em;
+}
+
+h1, h2 {
+  color: #8b5fb3 !important;
+  font-size: 30px;
+  font-family: "Bowlby One SC", sans-serif;
+  letter-spacing: 0.12em;
 }
 
 p, ul, ol, table, pre, dl {
@@ -320,28 +330,32 @@ p, ul, ol, table, pre, dl {
 }
 
 h1, h2, h3 {
-  line-height: 1.1;
+  line-height: 1.15;
 }
 
 h1 {
-  font-size: 28px;
+  font-size: 30px;
+  font-weight: 700;
 }
 
 h2 {
-  color: #393939;
+  color: #2a2a2a;
+  font-weight: 600;
 }
 
 h3, h4, h5, h6 {
-  color: #494949;
+  color: #3a3a3a;
+  font-weight: 500;
 }
 
 a {
-  color: #267CB9;
+  color: #8b5fb3;
   text-decoration: none;
+  transition: color 0.15s ease;
 }
 
 a:hover, a:focus {
-  color: #069;
+  color: #6b3f93;
   font-weight: bold;
 }
 
@@ -357,27 +371,28 @@ a:hover small {
 }
 
 .wrapper {
-  width: 860px;
+  width: 1100px;
   margin: 0 auto;
 }
 
 blockquote {
-  border-left: 1px solid #e5e5e5;
+  border-left: 3px solid #c9b5da;
   margin: 0;
   padding: 0 0 0 20px;
   font-style: italic;
+  color: #5a5a5a;
 }
 
 code, pre {
-  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family: "Fira Code", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, Consolas, "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace;
   color: #333;
 }
 
 pre {
-  padding: 8px 15px;
-  background: #f8f8f8;
-  border-radius: 5px;
-  border: 1px solid #e5e5e5;
+  padding: 10px 16px;
+  background: #f9f6fc;
+  border-radius: 8px;
+  border: 1px solid #c9b5da;
   overflow-x: auto;
 }
 
@@ -388,7 +403,7 @@ table {
 
 th, td {
   text-align: left;
-  padding: 5px 10px;
+  padding: 6px 12px;
   border-bottom: 1px solid #e5e5e5;
 }
 
@@ -398,7 +413,8 @@ dt {
 }
 
 th {
-  color: #444;
+  color: #6b3f93;
+  font-weight: 600;
 }
 
 img {
@@ -416,44 +432,46 @@ ul.downloads {
   list-style: none;
   height: 40px;
   padding: 0;
-  background: #f4f4f4;
-  border-radius: 5px;
-  border: 1px solid #e0e0e0;
+  background: #f7f3fb;
+  border-radius: 8px;
+  border: 1px solid #c9b5da;
   width: 270px;
 }
 
 .downloads li {
   width: 89px;
   float: left;
-  border-right: 1px solid #e0e0e0;
+  border-right: 1px solid #c9b5da;
   height: 40px;
 }
 
 .downloads li:first-child a {
-  border-radius: 5px 0 0 5px;
+  border-radius: 8px 0 0 8px;
 }
 
 .downloads li:last-child a {
-  border-radius: 0 5px 5px 0;
+  border-radius: 0 8px 8px 0;
 }
 
 .downloads a {
   line-height: 1;
   font-size: 11px;
-  color: #676767;
+  color: #8b5fb3;
   display: block;
   text-align: center;
   padding-top: 6px;
   height: 34px;
+  transition: background 0.15s ease;
 }
 
 .downloads a:hover, .downloads a:focus {
-  color: #675C5C;
+  color: #6b3f93;
   font-weight: bold;
+  background: #f0e8f9;
 }
 
 .downloads ul a:active {
-  background-color: #f0f0f0;
+  background-color: #e8d8f5;
 }
 
 strong {
@@ -473,7 +491,7 @@ strong {
 }
 
 section {
-  width: 500px;
+  width: 740px;
   float: right;
   padding-bottom: 50px;
 }
@@ -484,7 +502,7 @@ small {
 
 hr {
   border: 0;
-  background: #e5e5e5;
+  background: #c9b5da;
   height: 1px;
   margin: 0 0 20px;
 }

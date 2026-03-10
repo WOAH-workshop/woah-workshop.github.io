@@ -4,7 +4,7 @@ title: Reporting examples
 rank: 3
 ---
 
-## <span style="color:#267CB9"> Reporting examples of abusive content</span>
+## <span style="color:#8b5fbf"> Reporting examples of abusive content</span>
 
 The nature of researching online abusive content means that researchers often view and analyse hateful, harmful and otherwise unpleasant content. In some cases, it benefits the research for such content to appear in their outputs (e.g. papers and presentations). However, this raises ethical challenges which need to be considered by all researchers. This policy aims to address the uncensored use of explicit language in published outputs of the workshop. We introduce this policy for two reasons: (1)  readers who do not want to read abusive language should not be excluded from engaging in abusive language research because such language is needlessly shown in research outputs and (2) in most cases, the quality of research is not diminished by obfuscating or removing abusive examples.
 
