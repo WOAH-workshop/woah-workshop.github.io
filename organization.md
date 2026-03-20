@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Organisers
-rank: 2
+rank: 4
 ---
 
 ## <span style="color:#8b5fbf"> Organisers</span>

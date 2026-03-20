@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Keynotes
-rank: 1
+rank: 3
 ---
 
 # Keynotes
