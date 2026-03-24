@@ -10,11 +10,11 @@ In light of our theme of reflecting on the past decade, we as organisers have al
 
 After listening to feedback from the community, we have decided to lower this barrier by launching the first-ever **WOAH Mentorship Programme**.
 
-- [Link to register as mentor](https://forms.gle/XaK8KBFomaWZZwG98)
-- [Link to register as mentee](https://forms.gle/AC5akVcdzsCvwqEo7)
+- [Link to register as mentor](https://forms.gle/XaK8KBFomaWZZwG98){:target="_blank"}
+- [Link to register as mentee](https://forms.gle/AC5akVcdzsCvwqEo7){:target="_blank"}
 
 As a mentee, you will be able to propose your WOAH project idea and outline the type of guidance or supervision you are seeking. As a mentor, you will be expected to support your mentee by meeting at least three times during the project (at the beginning, midway, and towards the end). We encourage mentees to include their mentors as co-authors of their WOAH submission.
 
 Timeline:
-- Register for the mentorship programme by **3rd April**
-- Notification of mentor/mentee match by **15th April**
+- Register for the mentorship programme by **10rd April**
+- Notification of mentor/mentee match by **25th April**
