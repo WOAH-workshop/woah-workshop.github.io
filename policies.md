@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reporting examples
-rank: 3
+rank: 5
 ---
 
 ## <span style="color:#8b5fbf"> Reporting examples of abusive content</span>
