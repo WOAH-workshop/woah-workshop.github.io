@@ -6,7 +6,7 @@ rank: 1
 
 # Important Dates
 
-*Registration deadline for mentorship programme*:       April 10, 2026
+*Registration deadline for mentorship programme*: ~~April 10, 2026~~ April 17, 2026 (extended)
 
 *Notification of mentor/mentee match*:       April 25, 2026
 

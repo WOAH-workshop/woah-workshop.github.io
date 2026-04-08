@@ -16,5 +16,5 @@ After listening to feedback from the community, we have decided to lower this ba
 As a mentee, you will be able to propose your WOAH project idea and outline the type of guidance or supervision you are seeking. As a mentor, you will be expected to support your mentee by meeting at least three times during the project (at the beginning, midway, and towards the end). We encourage mentees to include their mentors as co-authors of their WOAH submission.
 
 Timeline:
-- Register for the mentorship programme by **10rd April**
+- Register for the mentorship programme by ~~**10th April**~~ **17th April (extended)**
 - Notification of mentor/mentee match by **25th April**
