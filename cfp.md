@@ -62,7 +62,7 @@ Timeline:
 
 Submission is electronic, using the Softconf START conference management system.
 
-Submission link: [Softconf WOAH 2026 Submission Link](https://softconf.com/emnlp2026/woah2026/)
+Submission link: [Softconf WOAH 2026 Submission Link](https://softconf.com/emnlp2026/woah2026/){:target="_blank"}
 
 The workshop will accept three types of papers.
 1. **Academic Papers (long and short)**: Long papers of up to 8 pages, excluding references, and short papers of up to 4 pages, excluding references. Unlimited pages for references and appendices. Accepted papers will be given an additional page of content to address reviewer comments. Previously published papers cannot be accepted.
