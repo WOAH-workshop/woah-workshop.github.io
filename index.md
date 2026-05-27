@@ -5,7 +5,7 @@ title: index
 
 ## Overview
 
-The 10th Workshop on Online Abuse and Harms (WOAH) is taking place on **24-29 October 2026**, as part of [EMNLP 2026](https://2026.emnlp.org/) in Budapest.
+The 10th Workshop on Online Abuse and Harms (WOAH) is taking place on **29 October 2026**, as part of [EMNLP 2026](https://2026.emnlp.org/) in Budapest.
 
 <!--The workshop will take place in **TBD**.-->
 
