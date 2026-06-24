@@ -10,7 +10,7 @@ rank: 1
 
 *Notification of mentor/mentee match*:       ~~April 25, 2026~~
 
-*Submission due*: 		~~June 26, 2026~~ July 3, 2026 (extended)
+*Submission due*: 		~~June 26, 2026~~ **July 3, 2026 (extended)**
 
 *ARR reviewed submission due*: August 3, 2026
 
