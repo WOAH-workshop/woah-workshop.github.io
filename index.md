@@ -124,7 +124,7 @@ In addition, we invite submissions related to the theme for this tenth edition o
 
 ## Sponsors
 
-We are looking for sponsors! If you are interested, please contact us as <a href="mailto:organizers@workshopononlineabuse.com">organizers@workshopononlineabuse.com</a>
+We are looking for sponsors! If you are interested, please contact us as <a href="mailto:organisers@thewoah.org">organisers@thewoah.org</a>
 
 <!--**Platinum Tier**-->
 
