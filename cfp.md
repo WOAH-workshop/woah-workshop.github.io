@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Call For Papers
@@ -101,4 +102,4 @@ Join us [here](https://join.slack.com/t/hatespeechdet-47d7560/shared_invite/zt-2
 
 # Contact Info
 
-Please send any questions about the workshop to <a href="mailto:organizers@workshopononlineabuse.com">organizers@workshopononlineabuse.com</a>
+Please send any questions about the workshop to <a href="mailto:organisers@thewoah.org">organisers@thewoah.org</a>

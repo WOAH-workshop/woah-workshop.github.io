@@ -134,4 +134,4 @@ We are looking for sponsors! If you are interested, please contact us as <a href
 <br/><br/>
 
 ## Contact
-If you have any questions, please get in touch at <a href="mailto:organizers@workshopononlineabuse.com">organizers@workshopononlineabuse.com</a>
+If you have any questions, please get in touch at <a href="mailto:organisers@thewoah.org">organisers@thewoah.org</a>

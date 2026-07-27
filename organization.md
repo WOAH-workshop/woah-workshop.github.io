@@ -96,4 +96,4 @@ rank: 4
   </li>
 </ul>
 
-Contact: [organizers@workshopononlineabuse.com](mailto:organizers@workshopononlineabuse.com)
+Contact: [organisers@thewoah.org](mailto:organisers@thewoah.org)
