@@ -10,7 +10,7 @@ rank: 1
 
 *Notification of mentor/mentee match*:       ~~April 25, 2026~~
 
-*Submission due*: 		~~June 26, 2026~~ **July 3, 2026 (extended)**
+*Submission due*: 		~~June 26, 2026 July 3, 2026 (extended)~~
 
 *ARR reviewed submission due*: August 3, 2026
 
@@ -48,8 +48,8 @@ In light of our theme of reflecting on the past decade, we as organisers have al
 
 After listening to feedback from the community, we have decided to lower this barrier by launching the first-ever **WOAH Mentorship Programme**.
 
-- [Link to register as mentor](https://forms.gle/XaK8KBFomaWZZwG98){:target="_blank"}
-- [Link to register as mentee](https://forms.gle/AC5akVcdzsCvwqEo7){:target="_blank"}
+- ~~[Link to register as mentor](https://forms.gle/XaK8KBFomaWZZwG98){:target="_blank"}~~
+- ~~[Link to register as mentee](https://forms.gle/AC5akVcdzsCvwqEo7){:target="_blank"}~~
 
 As a mentee, you will be able to propose your WOAH project idea and outline the type of guidance or supervision you are seeking. As a mentor, you will be expected to support your mentee by meeting at least three times during the project (at the beginning, midway, and towards the end). We encourage mentees to include their mentors as co-authors of their WOAH submission.
 
@@ -67,7 +67,9 @@ Submission link: [Softconf WOAH 2026 Submission Link](https://softconf.com/emnlp
 The workshop will accept three types of papers.
 1. **Academic Papers (long and short)**: Long papers of up to 8 pages, excluding references, and short papers of up to 4 pages, excluding references. Unlimited pages for references and appendices. Accepted papers will be given an additional page of content to address reviewer comments. Previously published papers cannot be accepted.
 2. **Non-Archival Submissions**: Up to 2 pages, excluding references, to summarise and showcase in-progress work and work published elsewhere.
-3. **Civil Society Reports**: Non-archival submissions, with a minimum of 2 pages and no upper limit. Can include work published elsewhere. 
+3. **Civil Society Reports**: Non-archival submissions, with a minimum of 2 pages and no upper limit. Can include work published elsewhere.
+
+ARR reviewed submission link: [https://docs.google.com/forms/d/e/1FAIpQLSdQuxtChqNC-Sv3O7OcPURbxLOMe49_OPcEMVhlgZAsA0V24A/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdQuxtChqNC-Sv3O7OcPURbxLOMe49_OPcEMVhlgZAsA0V24A/viewform)
 
 # Format and styling
 
