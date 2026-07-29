@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Call For Papers
