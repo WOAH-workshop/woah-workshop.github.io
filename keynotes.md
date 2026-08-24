@@ -8,7 +8,7 @@ rank: 3
 
 ### Invited Talk 1: Sara Tonelli *(FBK)*
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/img/sara-tonelli.jpeg" 
+  <img src="{{ site.baseurl }}/assets/img/sara-tonelli.jpg" 
        alt="Sara Tonelli" 
        style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
   <div>

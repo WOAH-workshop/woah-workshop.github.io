@@ -12,9 +12,9 @@ rank: 1
 
 *Submission due*: 		~~June 26, 2026 July 3, 2026 (extended)~~
 
-*ARR reviewed submission due*: August 3, 2026
+*ARR reviewed submission due*: ~~August 3, 2026~~
 
-*Notification of acceptance*:       August 15, 2026
+*Notification of acceptance*:       ~~August 15, 2026~~
 
 *Camera-ready papers due*: 	September 10, 2026
 
