@@ -16,7 +16,7 @@ rank: 1
 
 *Notification of acceptance*:       ~~August 15, 2026~~
 
-*Camera-ready papers due*: 	September 10, 2026
+*Camera-ready papers due*: 	~~September 10, 2026~~
 
 *Workshop*: 			29 October, 2026
 

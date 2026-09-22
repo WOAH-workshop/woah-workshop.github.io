@@ -56,7 +56,7 @@ rank: 4
     <img src="/assets/img/organisers/davidson.jpg" alt="Thomas Davidson">
     <div>
       <a href="https://thomasrdavidson.com/" target="_blank" rel="noopener noreferrer">Thomas Davidson</a>
-      <span class="affiliation">Rutgers University</span>
+      <span class="affiliation">University of North Carolina at Chapel Hill</span>
     </div>
   </li>
   <li class="organiser-card">
@@ -70,7 +70,7 @@ rank: 4
     <img src="/assets/img/organisers/khurana.jpg" alt="Urja Khurana">
     <div>
       <a href="https://urjakh.github.io/" target="_blank" rel="noopener noreferrer">Urja Khurana</a>
-      <span class="affiliation">Delft University</span>
+      <span class="affiliation">Delft University of Technology</span>
     </div>
   </li>
   <li class="organiser-card">

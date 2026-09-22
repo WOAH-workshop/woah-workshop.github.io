@@ -22,9 +22,7 @@ Topics covered by WOAH include, but are not limited to:
 - Analyses of the dynamics of online abuse, its propagation, and its impact on different communities;
 - Social, legal, and ethical considerations in detecting, monitoring, and moderating online abuse.
 
-
 In addition, we invite submissions related to the theme for this tenth edition of WOAH, which will be **Ten Years of WOAH: Reflecting on Progress and New Frontiers**. We aim to reflect on a decade of research on online harms by examining how these phenomena—and the technologies that shape them—have evolved over time. While early work focused primarily on textual hate speech and harassment, the landscape has expanded to include a broader range of harms such as radicalisation, child sexual exploitation, gender-based abuse, misinformation, and algorithmic bias. At the same time, advances in AI, multimodal platforms, and large-scale recommendation systems have transformed how harmful content is produced, amplified, and experienced online. These shifts raise new questions about how harms should be defined, measured, and addressed across languages, cultures, and modalities. To support this reflection, we invite NLP researchers, social scientists, legal and policy scholars, and practitioners to engage with key challenges emerging after ten years of WOAH. These include the conceptualisation and measurement of harm, the limitations of current datasets and models, the role of platforms and algorithms in shaping online environments, and the need for more inclusive, multilingual, and interdisciplinary approaches. By fostering dialogue across disciplines, our goal is to assess progress made over the past decade, identify persistent gaps, and help set priorities for the next generation of research on online harms.
-
 
 <br/>
 
@@ -80,7 +78,7 @@ In addition, we invite submissions related to the theme for this tenth edition o
     <img src="/assets/img/organisers/davidson.jpg" alt="Thomas Davidson">
     <div>
       <a href="https://thomasrdavidson.com/" target="_blank" rel="noopener noreferrer">Thomas Davidson</a>
-      <span class="affiliation">Rutgers University</span>
+      <span class="affiliation">University of North Carolina at Chapel Hill</span>
     </div>
   </li>
   <li class="organiser-card">
@@ -94,7 +92,7 @@ In addition, we invite submissions related to the theme for this tenth edition o
     <img src="/assets/img/organisers/khurana.jpg" alt="Urja Khurana">
     <div>
       <a href="https://urjakh.github.io/" target="_blank" rel="noopener noreferrer">Urja Khurana</a>
-      <span class="affiliation">Delft University</span>
+      <span class="affiliation">Delft University of Technology</span>
     </div>
   </li>
   <li class="organiser-card">
@@ -134,4 +132,5 @@ We are looking for sponsors! If you are interested, please contact us as <a href
 <br/><br/>
 
 ## Contact
+
 If you have any questions, please get in touch at <a href="mailto:organisers@thewoah.org">organisers@thewoah.org</a>
