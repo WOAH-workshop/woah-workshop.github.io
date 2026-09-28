@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Schedule
+rank: 4
 ---
 
 # 🗓️ Schedule
