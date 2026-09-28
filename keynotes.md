@@ -12,7 +12,11 @@ rank: 3
        alt="Sara Tonelli" 
        style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
   <div>
-    <strong>About:</strong> TBA <br>
+    <strong>About:</strong>
+    I am the head of the Digital Humanities Research Group at Fondazione Bruno Kessler in Trento, Italy. My main research interests focus on how toxic content spreads online, including fallacies, conspiracy theories, disinformation and trolling. I find particularly interesting analysing multilingual settings, where different narratives and rethorical strategies are used. I am also interested in assessing and measuring biases in LLMs and analysing how different factors such as annotators’ behavior and synthetic data can amplify them.
+    <br>
+    I hold a PhD in Language Sciences from Università Ca' Foscari, Venice. I am currently serving as Vice President of the Italian Association for Computational Linguistics and Program Chair of EACL 2027. In the past, I coordinated the KID_ACTIONS project funded by the Rights, Equality and Citizenship Programme of the European Union, whose goal was to prevent and respond to children and adolescent cyberbullying through innovative monitoring and educational technologies. I am currently involved in different international projects within the Horizon Europe framework on the topics of democratic resilience, trust in digital environments and AI for good democracy practices
+    <br>
     <strong>Title:</strong> TBA <br>
     <strong>Abstract:</strong> TBA
   </div>
