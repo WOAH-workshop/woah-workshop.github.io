@@ -170,20 +170,20 @@ TBA
 - **You Never Can Tell: A Survey of Preferences on LLM-Generated Counterspeech in an Austrian Context**
   *Pia Pachinger and Arianna Muti*
 
-- **You Frame It: How Conceptual Representations Shape LLM Detection and Reasoning about Antisemitism**
-  *Katharina Soemer and Helena Mihaljević*
-
 - **Disagreeing Rationales: Rethinking Classification and Explainability Evaluation in Hate Speech Detection**
   *Benedetta Muscato, Beiduo Chen, Gizem Gezici, Siyao Peng, Barbara Plank and Fosca Giannotti*
+
+- **Bye Bye Perspective API: Lessons for Building and Governing Measurement Infrastructure**
+  *David Hartmann, Manuel Tonneau, Angelie Kraft, LK Seiling, Dimitri Staufer, Pieter Delobelle, Jan Fillies, Anna Ricarda Luther, Jan Batzner and Mareike Lisker*
 
 - **Propaganda Forensics: Recovering the Generation Pipeline of an AI-Driven Influence Campaign**
   *Benjamin Icard, Elouan Vuichard, Louis Lefebvre, Lila Sainero, Thomas Girault, Alice Breton, Tanguy Launay, Gauvain Bourgne, Morgane Casanova, Guillaume Gadek, Victor Klötzer, Michel Le Nouy, Guillaume Gravier, Jean-Gabriel Ganascia and Paul Égré*
 
-- **HurtNet: a Multilingual Dictionary of Hurtful Words**
-  *Maria Alexandra Roussopoulou, Eliana Di Palma, Andrea Di Fabio, Adel Mahmoud Wizani, Vivian Stamou, Anaïs Ollagnier, Petya Osenova, Valerio Basile and Stella Markantonatou*
+- **You Frame It: How Conceptual Representations Shape LLM Detection and Reasoning about Antisemitism**
+  *Katharina Soemer and Helena Mihaljević*
 
-- **Bye Bye Perspective API: Lessons for Building and Governing Measurement Infrastructure**
-  *David Hartmann, Manuel Tonneau, Angelie Kraft, LK Seiling, Dimitri Staufer, Pieter Delobelle, Jan Fillies, Anna Ricarda Luther, Jan Batzner and Mareike Lisker*
+- **HurtNet: a Multilingual Dictionary of Hurtful Words**
+  *Maria Alexandra Roussopoulou, Eliana Di Palma, Andrea Di Fabio, Adel Mahmoud Wizani, Vivian Stamou, Anaïs Ollagnier, Petya Osenova, Valerio Basile and Stella Markantonatou
 
 - **From Specialization to Generalization: Instruction-tuned LLMs for Robust Harmful Content Mitigation**
   *Lukas Edman, Daryna Dementieva and Alexander Fraser*
