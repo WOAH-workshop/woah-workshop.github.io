@@ -21,7 +21,7 @@ rank: 4
 | **13:45 - 14:15** | **Lightning Talks 2** _(remote attendants)_                |
 | **14:15 - 15:30** | **In-Person Poster Session**                               |
 | **15:30 - 16:00** | _Coffee Break_                                             |
-| **16:00 - 16:45** | **Invited Talk 4**: Sarah T. Roberts                       |
+| **16:00 - 16:45** | **Invited Talk 4**: Sarah T. Roberts _(University of California, Los Angeles)_                      |
 | **16:45 - 17:25** | **Panel Discussion**                                       |
 | **17:25 - 17:30** | **Closing Remarks**                                        |
 
