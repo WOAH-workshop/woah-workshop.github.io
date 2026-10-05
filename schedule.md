@@ -58,9 +58,6 @@ TBA
 - **Beyond Translation: Cross-Linguistic Expression Strategies of Online Incivility on YouTube: A Comparison of English and Russian**
   *Mursal Dawodi, Yingping Sun, Albina Fatykhova, Dominic Lammert and Juergen Pfeffer*
 
-- **In-Browser Human-AI Co-Writing for Counterspeech: An Exploratory User Study of Agency, Perceived Response Quality, and Time**
-  *Tammy Schmidt and Luise Koch*
-
 - **Leveraging LLMs for Context-Aware Implicit Textual and Multimodal Hate Speech Detection**
   *Joshua Brook and Ilia Markov*
 
@@ -145,6 +142,9 @@ TBA
 
 - **When Harm is Polite: Coercion Markets and Low Toxicity in Conversion-Therapy Discourse**
   *Adhiraj Chhoda*
+
+- **In-Browser Human-AI Co-Writing for Counterspeech: An Exploratory User Study of Agency, Perceived Response Quality, and Time**
+  *Tammy Schmidt and Luise Koch*
 
 - **Context-Aware Evidence Minimization for Privacy-Conscious Harmful-Speech Dataset Release**
   *BATIN ÖRENE*
