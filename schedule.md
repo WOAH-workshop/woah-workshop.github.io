@@ -106,9 +106,6 @@ TBA
 - **Introducing the Privacy-HSD Trade-off: Hate Speech Detection, but not at the Cost of Privacy**
   *Stephen Meisenbacher, Vlad Gabuz, Chirill Donos, Maxim Dnestreanschii, Gabriel Creanga, Andreea-Elena Bodea, Thomas Lampert and Jana Diesner*
 
-- **SWARM: A Multilingual Human-Annotated Dataset for Russian Propaganda Detection in Search Engine Results**
-  *Manuel Tonneau, Abhinav Dubey, Farhan Shaikh, Ilaria Vitulano, Martha Stolze, Hale Dedeoglu, Clara Riechert, Ella Kuka, Maryna Sydorova, Mykola Makhortykh and Elizaveta Kuznetsova*
-
 - **GENDIS: Gender-Related Discourse and Stance in Multilingual YouTube Comments from India, Kenya, and Nigeria**
   *Luise Koch, Manuel Tonneau, Niyati Malhotra, Sunny Rai, Ana Maria Munoz Boudet, Victor Orozco-Olvera, Samuel Fraiberger and Sharath Chandra Guntuku*
 
@@ -169,6 +166,9 @@ TBA
 
 - **Tailoring In-Context Learning Techniques for Definition-Based Hate Speech Detection in Large Language Models**
   *Parham Bateni, Pradeep Kumar Murukannaiah and Urja Khurana*
+
+- **SWARM: A Multilingual Human-Annotated Dataset for Russian Propaganda Detection in Search Engine Results**
+  *Manuel Tonneau, Abhinav Dubey, Farhan Shaikh, Ilaria Vitulano, Martha Stolze, Hale Dedeoglu, Clara Riechert, Ella Kuka, Maryna Sydorova, Mykola Makhortykh and Elizaveta Kuznetsova*
 
 - **Who Let the Dogs Out? Auditing Dogwhistle Coverage in Hate Speech Benchmarks Across Target Groups**
   *Reva Hirave and Ryan Oet*
