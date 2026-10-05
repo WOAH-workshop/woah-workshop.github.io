@@ -183,7 +183,7 @@ TBA
   *Katharina Soemer and Helena Mihaljević*
 
 - **HurtNet: a Multilingual Dictionary of Hurtful Words**
-  *Maria Alexandra Roussopoulou, Eliana Di Palma, Andrea Di Fabio, Adel Mahmoud Wizani, Vivian Stamou, Anaïs Ollagnier, Petya Osenova, Valerio Basile and Stella Markantonatou
+  *Maria Alexandra Roussopoulou, Eliana Di Palma, Andrea Di Fabio, Adel Mahmoud Wizani, Vivian Stamou, Anaïs Ollagnier, Petya Osenova, Valerio Basile and Stella Markantonatou*
 
 - **From Specialization to Generalization: Instruction-tuned LLMs for Robust Harmful Content Mitigation**
   *Lukas Edman, Daryna Dementieva and Alexander Fraser*
