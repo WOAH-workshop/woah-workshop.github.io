@@ -17,8 +17,8 @@ rank: 4
 | **11:00 - 11:45** | **Invited Talk 2**: Su Lin Blodgett                        |
 | **11:45 - 12:30** | **Invited Talk 3**: Zeerak Talat _(University of Edinburgh)_ |
 | **12:30 - 13:30** | _Lunch Break_                                              |
-| **13:30 - 13:45** | **Best Paper Award**                                       |
-| **13:45 - 14:15** | **Lightning Talks 2** _(remote attendants)_                |
+| **13:30 - 14:00** | **Lightning Talks 2** _(remote attendants)_                |
+| **14:00 - 14:15** | **Best Paper Award**                                       |
 | **14:15 - 15:30** | **In-Person Poster Session**                               |
 | **15:30 - 16:00** | _Coffee Break_                                             |
 | **16:00 - 16:45** | **Invited Talk 4**: Sarah T. Roberts _(University of California, Los Angeles)_                      |
@@ -39,7 +39,7 @@ TBA
 
 ## 🏆 Awards
 
-### 🥇 Best Paper Award (13:30 - 13:45)
+### 🥇 Best Paper Award (14:00 - 14:15)
 
 **Title:** TBA
 **Authors:** TBA
@@ -74,7 +74,7 @@ TBA
 
 ---
 
-## ⚡ Lightning Talks 2 (13:45 - 14:15, remote attendants)
+## ⚡ Lightning Talks 2 (13:30 - 14:00, remote attendants)
 
 - **Adaptive Causal Coordination Detection for Online Harm Campaigns: A Framework Study with Semi-Supervised Labeling**
   *Yi Han, Wen Ding, Xuanjing Chen, Zhiguo Tao, Lifan Sun, Zichen Yuan and Yifei Huang*
