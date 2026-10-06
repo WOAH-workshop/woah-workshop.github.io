@@ -85,6 +85,9 @@ TBA
 - **When Harmful Intent Lies Between the Lines: Pragmatics-Based Automated Red Teaming for LLM Safety Evaluation**
   *Shuying Ye, Carolina Ternero and Fei Xia*
 
+- **Beyond Translation: Cross-Linguistic Expression Strategies of Online Incivility on YouTube: A Comparison of English and Russian**
+  *Mursal Dawodi, Yingping Sun, Albina Fatykhova, Dominic Lammert and Juergen Pfeffer*
+
 - **Evaluating Automatically Inferred Linguistic Perspective as an Auxiliary Signal for Toxicity Detection**
   *Meghana Gottapu*
 
@@ -115,9 +118,6 @@ TBA
 
 - **RSD framework for the detection of covert online harms**
   *Henna Paakki*
-
-- **Beyond Translation: Cross-Linguistic Expression Strategies of Online Incivility on YouTube: A Comparison of English and Russian**
-  *Mursal Dawodi, Yingping Sun, Albina Fatykhova, Dominic Lammert and Juergen Pfeffer*
 
 - **Leveraging LLMs for Context-Aware Implicit Textual and Multimodal Hate Speech Detection**
   *Joshua Brook and Ilia Markov*
