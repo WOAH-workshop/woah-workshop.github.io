@@ -39,11 +39,26 @@ I was previously a principal researcher in the Fairness, Accountability, Transpa
     <strong>Abstract:</strong> Marketing materials position generative AI models as smarter, faster, and more useful than ever. A substantial body of scholarship and journalistic reporting has characterized such discourses as hype and carefully examined language technologies’ capabilities, behaviours, and impacts, in pursuit of technologies that are less biased, safer, and more inclusive. In this talk, I’ll draw together my and other recent work to argue that NLP researchers need to interrogate not only technical artifacts but also the narratives surrounding them and the functions these narratives help perform—and moreover, that not doing so may both make it harder to contest harmful political and economic arrangements, and inadvertently enroll us in enabling them.
   </div>
 </div>
+---
 
+### Invited Talk 3: Zeerak Talat
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/img/organisers/zeerak.jpg" 
+       alt="Zeerak Talat" 
+       style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
+  <div>
+    <strong>About:</strong>
+    Zeerak Talat is a Chancellor’s Fellow (~Assistant Professor in the U.S.) in Responsible Machine Learning and Artificial Intelligence at the Centre for Technomoral Futures and the School of Informatics at the University of Edinburgh, where they lead the ZEST Lab. They are also a faculty fellow at DAIR. They work on the intersection between machine learning, science and technology studies, and media studies. Their research centres decolonial and anti-capitalist critiques of ML and providing evidence that current ML methods (i.e., the mathematics of it all) are constructed in a way that naturally afford authoritarianism, colonialism, and forms of hegemony (i.e., white supremacy, patriarchy, ableism, and so on) and thinking about and developing ML methods that rethink the ways in which ML is applied to offer resistance to such notions. 
+    <br>
+    They did their undergrad in Computer Science and their master’s in IT & Cognition at the University of Copenhagen, and their Ph.D. at the University of Sheffield, and have done two post-docs at the Digital Democracies Institute, and Mohamed bin Zayed University of Artificial Intelligence.
+    <strong>Title:</strong> TBA <br>
+    <strong>Abstract:</strong> TBA
+  </div>
+</div>
 
 ---
 
-### Invited Talk 3: Sarah T. Roberts
+### Invited Talk 4: Sarah T. Roberts
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
   <img src="{{ site.baseurl }}/assets/img/sarah-roberts.png" 
        alt="Sarah T. Roberts" 
