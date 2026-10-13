@@ -35,8 +35,8 @@ rank: 3
 <br>
 I was previously a principal researcher in the Fairness, Accountability, Transparency, and Ethics in AI (FATE) group at Microsoft Research Montréal, where I was also a postdoctoral researcher. I completed my Ph.D. in computer science at the University of Massachusetts Amherst working in the Statistical Social Language Analysis Lab under the guidance of Brendan O’Connor, where I was also supported by the NSF Graduate Research Fellowship. I received my B.A. in mathematics from Wellesley College. I interned at Microsoft Research New York City in summer 2019, where I worked with Solon Barocas, Hal Daumé III, and Hanna Wallach. I was named one of the 2022 100 Brilliant Women in AI Ethics.
     <br>
-    <strong>Title:</strong> TBA <br>
-    <strong>Abstract:</strong> TBA
+    <strong>Title:</strong> The social and political functions of AI narratives <br>
+    <strong>Abstract:</strong> Marketing materials position generative AI models as smarter, faster, and more useful than ever. A substantial body of scholarship and journalistic reporting has characterized such discourses as hype and carefully examined language technologies’ capabilities, behaviours, and impacts, in pursuit of technologies that are less biased, safer, and more inclusive. In this talk, I’ll draw together my and other recent work to argue that NLP researchers need to interrogate not only technical artifacts but also the narratives surrounding them and the functions these narratives help perform—and moreover, that not doing so may both make it harder to contest harmful political and economic arrangements, and inadvertently enroll us in enabling them.
   </div>
 </div>
 
