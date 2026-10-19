@@ -51,6 +51,7 @@ I was previously a principal researcher in the Fairness, Accountability, Transpa
     Zeerak Talat is a Chancellor’s Fellow (~Assistant Professor in the U.S.) in Responsible Machine Learning and Artificial Intelligence at the Centre for Technomoral Futures and the School of Informatics at the University of Edinburgh, where they lead the ZEST Lab. They are also a faculty fellow at DAIR. They work on the intersection between machine learning, science and technology studies, and media studies. Their research centres decolonial and anti-capitalist critiques of ML and providing evidence that current ML methods (i.e., the mathematics of it all) are constructed in a way that naturally afford authoritarianism, colonialism, and forms of hegemony (i.e., white supremacy, patriarchy, ableism, and so on) and thinking about and developing ML methods that rethink the ways in which ML is applied to offer resistance to such notions. 
     <br>
     They did their undergrad in Computer Science and their master’s in IT & Cognition at the University of Copenhagen, and their Ph.D. at the University of Sheffield, and have done two post-docs at the Digital Democracies Institute, and Mohamed bin Zayed University of Artificial Intelligence.
+    <br>
     <strong>Title:</strong> TBA <br>
     <strong>Abstract:</strong> TBA
   </div>
