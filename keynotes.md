@@ -17,8 +17,8 @@ rank: 3
     <br>
     I hold a PhD in Language Sciences from Università Ca' Foscari, Venice. I am currently serving as Vice President of the Italian Association for Computational Linguistics and Program Chair of EACL 2027. In the past, I coordinated the KID_ACTIONS project funded by the Rights, Equality and Citizenship Programme of the European Union, whose goal was to prevent and respond to children and adolescent cyberbullying through innovative monitoring and educational technologies. I am currently involved in different international projects within the Horizon Europe framework on the topics of democratic resilience, trust in digital environments and AI for good democracy practices
     <br>
-    <strong>Title:</strong> TBA <br>
-    <strong>Abstract:</strong> TBA
+    <strong>Title:</strong>A Ten-Year Retrospective on Hate Speech Detection and Analysis<br>
+    <strong>Abstract:</strong>This year marks two major milestones: the 10th anniversary of WOAH and the ACL Test-of-Time Award honoring the first breakthrough paper on hate speech detection. Over the past decade, research on hate speech has evolved significantly across model architectures, taxonomies, dataset curation and ethical alignment. Yet, many early insights still hold true, and the core challenge remains far from solved. Drawing on existing scholarship and my own research, this talk provides an overview of a decade of progress and pitfalls before outlining key open challenges that demonstrate why critical work in content moderation still lies ahead.
   </div>
 </div>
 
