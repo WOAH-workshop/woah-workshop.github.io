@@ -49,7 +49,7 @@ rank: 5
     <img src="/assets/img/organisers/agostina.jpg" alt="Agostina Calabrese">
     <div>
       <a href="https://ago3.github.io/" target="_blank" rel="noopener noreferrer">Agostina Calabrese</a>
-      <span class="affiliation">University of Edinburgh</span>
+      <span class="affiliation">Cohere</span>
     </div>
   </li>
   <li class="organiser-card">
