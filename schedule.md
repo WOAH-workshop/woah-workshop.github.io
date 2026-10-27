@@ -24,6 +24,7 @@ rank: 4
 | **16:00 - 16:45** | **Invited Talk 4**: Sarah T. Roberts _(University of California, Los Angeles)_                      |
 | **16:45 - 17:25** | **Panel Discussion**                                       |
 | **17:25 - 17:30** | **Closing Remarks**                                        |
+| **19:00**         | **Social Event**                                           |
 
 ---
 
