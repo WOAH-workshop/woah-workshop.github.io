@@ -14,8 +14,8 @@ rank: 4
 | **09:20 - 10:05** | **Invited Talk 1**: Sara Tonelli _(FBK)_                   |
 | **10:05 - 10:30** | **Lightning Talks 1** _(remote attendants)_                |
 | **10:30 - 11:00** | _Coffee Break_                                             |
-| **11:00 - 11:45** | **Invited Talk 2**: Su Lin Blodgett                        |
-| **11:45 - 12:30** | **Invited Talk 3**: Zeerak Talat _(University of Edinburgh)_ |
+| **11:00 - 11:45** | **Invited Talk 2**: Zeerak Talat _(University of Edinburgh)_ |
+| **11:45 - 12:30** | **Invited Talk 3**: Su Lin Blodgett                        |
 | **12:30 - 13:30** | _Lunch Break_                                              |
 | **13:30 - 14:00** | **Lightning Talks 2** _(remote attendants)_                |
 | **14:00 - 14:15** | **Best Paper Award**                                       |
