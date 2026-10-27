@@ -30,11 +30,8 @@ rank: 4
 
 ## 📄 Proceedings
 
-<!---
 You can access the full proceedings of the workshop [here (PDF)](https://aclanthology.org/2026.woah-1.0.pdf).
--->
 
-TBA
 
 ---
 
