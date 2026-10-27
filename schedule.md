@@ -137,7 +137,7 @@ TBA
 - **How User-AI Mistreatment Occurs and Matters in Conversational Systems?**
   *Fanqi Zeng, Sadid Hasan and Chaocheng He*
 
-- **Mind the Alignment Gap: Why General-Purpose Moderation Fails Children, and How a Child-Centric Taxonomy and Synthetic Data Close It**
+- [**Mind the Alignment Gap: Why General-Purpose Moderation Fails Children, and How a Child-Centric Taxonomy and Synthetic Data Close It**](https://kids-alignment-pechakucha-aidetem.vercel.app/#present)
   *Jan Fikeis and Pavel Kordík*
 
 - **Who's Behind It? Annotating and Extracting Conspiratorial Actors from German Telegram Posts**
