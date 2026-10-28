@@ -77,7 +77,7 @@ You can access the full proceedings of the workshop [here (PDF)](https://aclanth
 - **Adaptive Causal Coordination Detection for Online Harm Campaigns: A Framework Study with Semi-Supervised Labeling**
   *Yi Han, Wen Ding, Xuanjing Chen, Zhiguo Tao, Lifan Sun, Zichen Yuan and Yifei Huang*
 
-- **Mind the Alignment Gap: Why General-Purpose Moderation Fails Children, and How to Close the Gap with Synthetic Data**
+- [**Mind the Alignment Gap: Why General-Purpose Moderation Fails Children, and How a Child-Centric Taxonomy and Synthetic Data Close It**](https://kids-alignment-pechakucha-aidetem.vercel.app/#present)
   *Jan Fikeis and Pavel Kordík*
 
 - **When Harmful Intent Lies Between the Lines: Pragmatics-Based Automated Red Teaming for LLM Safety Evaluation**
@@ -134,9 +134,6 @@ You can access the full proceedings of the workshop [here (PDF)](https://aclanth
 
 - **How User-AI Mistreatment Occurs and Matters in Conversational Systems?**
   *Fanqi Zeng, Sadid Hasan and Chaocheng He*
-
-- [**Mind the Alignment Gap: Why General-Purpose Moderation Fails Children, and How a Child-Centric Taxonomy and Synthetic Data Close It**](https://kids-alignment-pechakucha-aidetem.vercel.app/#present)
-  *Jan Fikeis and Pavel Kordík*
 
 - **Who's Behind It? Annotating and Extracting Conspiratorial Actors from German Telegram Posts**
   *Helena Mihaljevic, Jolanda Beer, Mareike Lisker and Katharina Soemer*
