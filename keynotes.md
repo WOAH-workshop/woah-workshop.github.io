@@ -52,7 +52,7 @@ rank: 3
     <br>
     They did their undergrad in Computer Science and their master’s in IT & Cognition at the University of Copenhagen, and their Ph.D. at the University of Sheffield, and have done two post-docs at the Digital Democracies Institute, and Mohamed bin Zayed University of Artificial Intelligence.
     <br>
-    <strong>Title:</strong> TBA <br>
+    <strong>Title:</strong> The Children of Omelas: Reflections on a Decade of Practice in Automated Content Moderation <br>
     <strong>Abstract:</strong> TBA
   </div>
 </div>
