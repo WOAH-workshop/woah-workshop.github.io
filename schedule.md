@@ -40,6 +40,7 @@ You can access the full proceedings of the workshop [here (PDF)](https://aclanth
 ### 🥇 Best Paper Award (14:00 - 14:15)
 
 **Title:** Who Let the Dogs Out? Auditing Dogwhistle Coverage in Hate Speech Benchmarks Across Target Groups
+<br>
 **Authors:** Reva Hirave and Ryan Oet
 
 ---
