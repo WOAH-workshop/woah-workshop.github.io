@@ -12,12 +12,15 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700;800&display=swap">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: css_version | relative_url }}">
+    <script type="speculationrules">
+      {"prefetch": [{"where": {"href_matches": "/*"}, "eagerness": "moderate"}]}
+    </script>
   </head>
   <body>
     <header class="site-nav">
       <div class="container nav-inner">
         <a class="brand" href="{{ "/" | relative_url }}">
-          <img src="{{ site.logo | relative_url }}" alt="">
+          <img src="{{ "/assets/img/logo_woah_small.png" | relative_url }}" alt="" width="34" height="34">
           <span>WOAH <strong>{{ site.current.year }}</strong></span>
         </a>
 
