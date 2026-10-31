@@ -1,7 +1,7 @@
 ---
 edition: 2024
 description: "The 8th Workshop on Online Abuse and Harms (WOAH) on June 20 at NAACL 2024."
-layout: default
+layout: classic
 title: Reporting examples
 rank: 3
 ---

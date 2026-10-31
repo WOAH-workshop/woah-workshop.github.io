@@ -1,0 +1,39 @@
+<section class="hero">
+  <div class="hero-sky" aria-hidden="true">
+    <span class="petal p1"></span><span class="petal p2"></span><span class="petal p3"></span>
+    <span class="petal p4"></span><span class="petal p5"></span><span class="petal p6"></span>
+    <span class="petal p7"></span><span class="petal p8"></span>
+  </div>
+
+  <div class="container hero-inner">
+    <div class="hero-text">
+      <p class="eyebrow">{{ site.current.number }} edition &middot; co-located with {{ site.current.conference }}</p>
+      <h1>WOAH <span class="year">{{ site.current.year }}</span></h1>
+      <p class="hero-subtitle">Workshop on Online Abuse and Harms</p>
+      <span class="accent-bar"></span>
+
+      <ul class="hero-facts">
+        <li>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 22s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12z"/><circle cx="12" cy="10" r="2.5"/></svg>
+          {{ site.current.location }}
+        </li>
+        <li>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg>
+          {{ site.current.dates }}
+        </li>
+      </ul>
+
+      <div class="hero-actions">
+        <a class="button primary" href="{{ "/cfp.html" | relative_url }}">Call for papers</a>
+        <a class="button ghost" href="mailto:organisers@thewoah.org">Get in touch</a>
+      </div>
+    </div>
+
+    <div class="hero-art">
+      <div class="sun" aria-hidden="true"></div>
+      <img src="{{ site.current.promo | relative_url }}" alt="WOAH {{ site.current.year }} poster: a red torii gate in front of a setting sun with falling cherry blossoms. Co-located with {{ site.current.conference }}, {{ site.current.location }}, {{ site.current.dates }}." width="1200" height="1200">
+    </div>
+  </div>
+
+  <div class="waves" aria-hidden="true"></div>
+</section>

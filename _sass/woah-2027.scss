@@ -1,0 +1,615 @@
+// WOAH 2027 theme, based on the Kyoto promo poster:
+// night-sky indigo, setting-sun coral, torii red, sakura pink, gold and seigaiha blue.
+
+$night:      #1d1450;
+$night-2:    #33206b;
+$dusk:       #5b3590;
+$coral:      #ff6f61;
+$torii:      #d62440;
+$sakura:     #f7b8cf;
+$gold:       #ffd97a;
+$wave:       #2b4aa5;
+$paper:      #faf7fc;
+$card:       #ffffff;
+$ink:        #2a2342;
+$ink-soft:   #5f5878;
+$line:       #e9e3f3;
+
+$display: "Poppins", "Helvetica Neue", Arial, sans-serif;
+$body:    "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+
+// Seigaiha (blue ocean wave) pattern, after Lea Verou's CSS3 patterns gallery
+@mixin seigaiha($a, $b, $w: 80px) {
+  background-color: $a;
+  background-image:
+    radial-gradient(circle at 100% 150%, $a 24%, $b 24%, $b 28%, $a 28%, $a 36%, $b 36%, $b 40%, transparent 40%, transparent),
+    radial-gradient(circle at 0 150%, $a 24%, $b 24%, $b 28%, $a 28%, $a 36%, $b 36%, $b 40%, transparent 40%, transparent),
+    radial-gradient(circle at 50% 100%, $b 10%, $a 10%, $a 23%, $b 23%, $b 30%, $a 30%, $a 43%, $b 43%, $b 50%, $a 50%, $a 63%, $b 63%, $b 71%, transparent 71%, transparent),
+    radial-gradient(circle at 100% 50%, $b 5%, $a 5%, $a 15%, $b 15%, $b 20%, $a 20%, $a 29%, $b 29%, $b 34%, $a 34%, $a 44%, $b 44%, $b 49%, transparent 49%, transparent),
+    radial-gradient(circle at 0 50%, $b 5%, $a 5%, $a 15%, $b 15%, $b 20%, $a 20%, $a 29%, $b 29%, $b 34%, $a 34%, $a 44%, $b 44%, $b 49%, transparent 49%, transparent);
+  background-size: $w ($w * 0.5);
+}
+
+// ---------------------------------------------------------------- base
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: $paper;
+  color: $ink;
+  font: 400 17px/1.7 $body;
+  -webkit-font-smoothing: antialiased;
+}
+
+img { max-width: 100%; height: auto; }
+
+a {
+  color: $torii;
+  text-decoration: underline;
+  text-decoration-color: rgba($torii, 0.35);
+  text-underline-offset: 3px;
+  transition: color 0.15s, text-decoration-color 0.15s;
+}
+a:hover { color: darken($torii, 10%); text-decoration-color: currentColor; }
+
+h1, h2, h3, h4 {
+  font-family: $display;
+  color: $night;
+  line-height: 1.2;
+}
+
+strong { font-weight: 600; color: $night; }
+
+.container {
+  width: 100%;
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.eyebrow {
+  margin: 0 0 12px;
+  font: 600 13px/1.4 $display;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $sakura;
+}
+
+.accent-bar {
+  display: block;
+  width: 72px;
+  height: 5px;
+  border-radius: 5px;
+  background: $coral;
+}
+
+// ---------------------------------------------------------------- navigation
+
+.site-nav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba($night, 0.92);
+  backdrop-filter: saturate(140%) blur(10px);
+  -webkit-backdrop-filter: saturate(140%) blur(10px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.nav-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 64px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #fff;
+  text-decoration: none;
+  font: 700 19px/1 $display;
+  letter-spacing: 0.02em;
+
+  img { width: 34px; height: 34px; border-radius: 50%; }
+  strong { color: $gold; font-weight: 700; }
+  &:hover { color: #fff; }
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+
+  > a, summary {
+    padding: 8px 14px;
+    border-radius: 999px;
+    color: rgba(255, 255, 255, 0.82);
+    font: 500 15px/1.2 $display;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s;
+  }
+  > a:hover, summary:hover { background: rgba(255, 255, 255, 0.08); color: #fff; }
+  > a.active { color: #fff; background: rgba($coral, 0.22); }
+}
+
+.nav-editions {
+  position: relative;
+
+  summary {
+    list-style: none;
+    &::-webkit-details-marker { display: none; }
+    &::after { content: " ▾"; font-size: 12px; opacity: 0.7; }
+  }
+}
+
+.nav-editions-menu {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 8px);
+  min-width: 170px;
+  padding: 8px;
+  border-radius: 14px;
+  background: $card;
+  box-shadow: 0 18px 40px rgba($night, 0.25);
+
+  a {
+    display: block;
+    padding: 8px 12px;
+    border-radius: 8px;
+    color: $ink;
+    font: 500 15px/1.3 $display;
+    text-decoration: none;
+    &:hover { background: $paper; color: $torii; }
+  }
+}
+
+.nav-toggle, .nav-burger { display: none; }
+
+@media (max-width: 760px) {
+  .nav-burger {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 42px;
+    height: 42px;
+    cursor: pointer;
+
+    span, span::before, span::after {
+      display: block;
+      width: 22px;
+      height: 2px;
+      border-radius: 2px;
+      background: #fff;
+      position: relative;
+      transition: transform 0.2s, background 0.2s;
+    }
+    span::before, span::after { content: ""; position: absolute; left: 0; }
+    span::before { top: -7px; }
+    span::after { top: 7px; }
+  }
+
+  .nav-inner { flex-wrap: wrap; }
+
+  .nav-links {
+    display: none;
+    flex-basis: 100%;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 4px 0 16px;
+
+    > a, summary { padding: 12px 14px; }
+  }
+
+  .nav-toggle:checked ~ .nav-links { display: flex; }
+  .nav-toggle:checked + .nav-burger span { background: transparent; }
+  .nav-toggle:checked + .nav-burger span::before { transform: translateY(7px) rotate(45deg); }
+  .nav-toggle:checked + .nav-burger span::after { transform: translateY(-7px) rotate(-45deg); }
+
+  .nav-editions-menu {
+    position: static;
+    margin: 4px 0 0 14px;
+    background: transparent;
+    box-shadow: none;
+    padding: 0;
+
+    a { color: rgba(255, 255, 255, 0.8); &:hover { background: rgba(255, 255, 255, 0.08); color: #fff; } }
+  }
+}
+
+// ---------------------------------------------------------------- hero (landing page)
+
+.hero {
+  position: relative;
+  overflow: hidden;
+  color: #fff;
+  background:
+    radial-gradient(1px 1px at 12% 18%, rgba(255, 255, 255, 0.8), transparent),
+    radial-gradient(1px 1px at 28% 62%, rgba(255, 255, 255, 0.6), transparent),
+    radial-gradient(1.5px 1.5px at 44% 12%, rgba(255, 255, 255, 0.7), transparent),
+    radial-gradient(1px 1px at 58% 40%, rgba(255, 255, 255, 0.5), transparent),
+    radial-gradient(1.5px 1.5px at 72% 8%, rgba(255, 255, 255, 0.8), transparent),
+    radial-gradient(1px 1px at 88% 30%, rgba(255, 255, 255, 0.6), transparent),
+    radial-gradient(1px 1px at 6% 78%, rgba(255, 255, 255, 0.5), transparent),
+    radial-gradient(1px 1px at 94% 70%, rgba(255, 255, 255, 0.5), transparent),
+    linear-gradient(180deg, $night 0%, $night-2 55%, $dusk 100%);
+}
+
+.hero-inner {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: 1.1fr 1fr;
+  align-items: center;
+  gap: 56px;
+  padding-top: 72px;
+  padding-bottom: 88px;
+}
+
+.hero h1 {
+  margin: 0;
+  color: #fff;
+  font-size: clamp(56px, 9vw, 104px);
+  font-weight: 800;
+  line-height: 0.95;
+  letter-spacing: -0.01em;
+
+  .year { display: block; color: $gold; font-size: 0.62em; letter-spacing: 0; margin-top: 6px; }
+}
+
+.hero-subtitle {
+  margin: 18px 0 18px;
+  font: 600 clamp(19px, 2.2vw, 24px)/1.3 $display;
+  color: #fff;
+}
+
+.hero-facts {
+  list-style: none;
+  margin: 28px 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+
+  li {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 9px 16px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.16);
+    font: 500 15px/1.2 $display;
+  }
+
+  svg {
+    width: 18px;
+    height: 18px;
+    fill: none;
+    stroke: $gold;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 32px;
+}
+
+.button {
+  display: inline-block;
+  padding: 13px 24px;
+  border-radius: 999px;
+  font: 600 15px/1 $display;
+  text-decoration: none;
+  transition: transform 0.15s, box-shadow 0.15s, background 0.15s;
+
+  &:hover { transform: translateY(-1px); }
+
+  &.primary {
+    background: linear-gradient(135deg, $coral, $torii);
+    color: #fff;
+    box-shadow: 0 10px 24px rgba($torii, 0.35);
+    &:hover { color: #fff; box-shadow: 0 14px 30px rgba($torii, 0.45); }
+  }
+
+  &.ghost {
+    color: #fff;
+    border: 1.5px solid rgba(255, 255, 255, 0.4);
+    &:hover { color: #fff; background: rgba(255, 255, 255, 0.08); }
+  }
+}
+
+.hero-art {
+  position: relative;
+  justify-self: center;
+  width: 100%;
+  max-width: 460px;
+
+  img {
+    position: relative;
+    display: block;
+    width: 100%;
+    border-radius: 24px;
+    box-shadow: 0 30px 60px rgba(8, 4, 30, 0.55), 0 0 0 1px rgba(255, 255, 255, 0.1);
+    transform: rotate(2deg);
+    transition: transform 0.3s ease;
+  }
+  &:hover img { transform: rotate(0deg) scale(1.01); }
+}
+
+.sun {
+  position: absolute;
+  inset: -12%;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba($coral, 0.55) 0%, rgba($coral, 0.18) 45%, transparent 70%);
+  filter: blur(8px);
+}
+
+.hero .waves {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 40px;
+  @include seigaiha($wave, #fff, 64px);
+  opacity: 0.95;
+}
+
+// falling sakura petals
+.hero-sky { position: absolute; inset: 0; pointer-events: none; }
+
+.petal {
+  position: absolute;
+  top: -20px;
+  width: 14px;
+  height: 10px;
+  background: $sakura;
+  border-radius: 150% 0 150% 0;
+  opacity: 0.85;
+  animation: petal-fall 14s linear infinite;
+}
+.p1 { left: 6%;  animation-delay: -1s;  animation-duration: 15s; }
+.p2 { left: 18%; animation-delay: -7s;  animation-duration: 12s; transform: scale(0.8); }
+.p3 { left: 33%; animation-delay: -3s;  animation-duration: 17s; }
+.p4 { left: 49%; animation-delay: -10s; animation-duration: 13s; }
+.p5 { left: 62%; animation-delay: -5s;  animation-duration: 16s; }
+.p6 { left: 76%; animation-delay: -12s; animation-duration: 14s; }
+.p7 { left: 88%; animation-delay: -2s;  animation-duration: 18s; }
+.p8 { left: 95%; animation-delay: -8s;  animation-duration: 12s; }
+
+@keyframes petal-fall {
+  0%   { transform: translate(0, 0) rotate(0deg); }
+  50%  { transform: translate(-40px, 300px) rotate(180deg); }
+  100% { transform: translate(20px, 640px) rotate(360deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .petal { animation: none; display: none; }
+  .hero-art img { transition: none; }
+}
+
+@media (max-width: 860px) {
+  .hero-inner {
+    grid-template-columns: 1fr;
+    gap: 40px;
+    padding-top: 48px;
+    padding-bottom: 80px;
+  }
+  .hero-art { max-width: 380px; }
+}
+
+// ---------------------------------------------------------------- inner page banner
+
+.page-banner {
+  position: relative;
+  padding: 56px 0 48px;
+  color: #fff;
+  background: linear-gradient(180deg, $night 0%, $night-2 100%);
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 5px;
+    background: linear-gradient(90deg, $coral, $torii 40%, $sakura);
+  }
+
+  h1 {
+    margin: 0;
+    color: #fff;
+    font-size: clamp(30px, 5vw, 44px);
+    font-weight: 700;
+  }
+}
+
+// ---------------------------------------------------------------- content
+
+.content {
+  max-width: 820px;
+  padding-top: 56px;
+  padding-bottom: 72px;
+
+  > :first-child { margin-top: 0; }
+
+  h2 {
+    margin: 56px 0 20px;
+    font-size: 28px;
+    font-weight: 700;
+
+    &::after {
+      content: "";
+      display: block;
+      width: 56px;
+      height: 4px;
+      margin-top: 12px;
+      border-radius: 4px;
+      background: $coral;
+    }
+  }
+
+  h3 { margin: 36px 0 12px; font-size: 21px; font-weight: 600; }
+
+  p, ul, ol { margin: 0 0 18px; }
+  li { margin-bottom: 6px; }
+  li::marker { color: $coral; }
+
+
+  hr {
+    border: 0;
+    height: 1px;
+    margin: 40px 0;
+    background: $line;
+  }
+
+  blockquote {
+    margin: 24px 0;
+    padding: 4px 20px;
+    border-left: 4px solid $sakura;
+    color: $ink-soft;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 0 24px;
+    font-size: 15px;
+  }
+  th, td { padding: 10px 12px; border-bottom: 1px solid $line; text-align: left; vertical-align: top; }
+  th { font-family: $display; font-weight: 600; color: $night; }
+
+  code {
+    padding: 2px 6px;
+    border-radius: 6px;
+    background: $line;
+    font-size: 0.9em;
+  }
+}
+
+.callout {
+  padding: 22px 26px;
+  border-radius: 18px;
+  background: linear-gradient(135deg, rgba($sakura, 0.28), rgba($gold, 0.22));
+  border: 1px solid rgba($coral, 0.25);
+}
+
+// ---------------------------------------------------------------- organisers
+
+.organisers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 14px;
+  margin: 24px 0 8px;
+  padding: 0;
+  list-style: none;
+}
+
+.organiser-card {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin: 0;
+  padding: 14px 16px;
+  border-radius: 16px;
+  background: $card;
+  border: 1px solid $line;
+  box-shadow: 0 1px 2px rgba($night, 0.04);
+  transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+
+  &:hover {
+    transform: translateY(-2px);
+    border-color: rgba($coral, 0.4);
+    box-shadow: 0 12px 24px rgba($night, 0.08);
+  }
+
+  img, .initials {
+    width: 56px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 0 0 3px $card, 0 0 0 5px $sakura;
+  }
+
+  .initials {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, $dusk, $night);
+    color: $gold;
+    font: 700 18px/1 $display;
+  }
+
+  a, .name {
+    display: block;
+    color: $night;
+    font: 600 15.5px/1.3 $display;
+    text-decoration: none;
+  }
+  a:hover { color: $torii; }
+
+  .affiliation {
+    display: block;
+    margin-top: 3px;
+    font-size: 13.5px;
+    line-height: 1.35;
+    color: $ink-soft;
+  }
+}
+
+// ---------------------------------------------------------------- footer
+
+.site-footer {
+  color: rgba(255, 255, 255, 0.75);
+
+  .waves {
+    height: 40px;
+    @include seigaiha($wave, #fff, 64px);
+  }
+
+  a { color: #fff; text-decoration-color: rgba(255, 255, 255, 0.35); }
+  a:hover { color: $gold; }
+}
+
+.footer-body {
+  padding: 48px 0 28px;
+  background: $night;
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 32px;
+
+  p { margin: 0 0 8px; font-size: 15px; }
+}
+
+.footer-title {
+  color: #fff;
+  font: 600 15px/1.4 $display !important;
+  margin-bottom: 10px !important;
+}
+
+.footer-editions a { margin-right: 12px; }
+
+.footer-small {
+  margin-top: 32px;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.45);
+}
+
+@media (max-width: 760px) {
+  .footer-grid { grid-template-columns: 1fr; gap: 20px; }
+  body { font-size: 16px; }
+  .content { padding-top: 40px; }
+}

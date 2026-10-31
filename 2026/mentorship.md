@@ -1,7 +1,7 @@
 ---
 edition: 2026
 description: "The 10th Workshop on Online Abuse and Harms (WOAH) at EMNLP 2026."
-layout: default
+layout: classic
 title: 🆕 Mentorship Programme
 rank: 2
 ---

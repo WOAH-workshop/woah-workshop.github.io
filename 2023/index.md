@@ -1,7 +1,7 @@
 ---
 edition: 2023
 description: "The 7th Workshop on Online Abuse and Harms (WOAH) on July 13th at ACL 2023."
-layout: default
+layout: classic
 title: index
 ---
 
