@@ -6,8 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
+{% assign css_version = site.time | date: "%s" %}
 {% include favicon.html %}
-    <link rel="stylesheet" href="{{ page.stylesheet | default: "style" | prepend: "/assets/css/" | append: ".css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ page.stylesheet | default: "style" | prepend: "/assets/css/" | append: ".css?v=" | append: css_version | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
