@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ page.stylesheet | default: "style" | prepend: "/assets/css/" | append: ".css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -20,7 +20,7 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -39,21 +39,37 @@
         {% endif %}
         {% assign sorted = site.html_pages | sort:"rank" %}
         <li>
+        {% if page.edition %}
+        <a href="{{ page.edition | prepend: "/" | append: "/" | relative_url }}">Homepage</a>
+        {% else %}
         <a href="{{ "/" | absolute_url }}">Homepage</a>
+        {% endif %}
         </li>
         {% for item in sorted %}
-          {% if item.title and item.rank %}
+          {% if item.title and item.rank and item.edition == page.edition %}
             <li>
-              <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
+              <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
             </li>
           {% endif %}
         {% endfor %}
+
+        <p class="past-editions">
+          <small>Past editions:
+          {% for year in site.past_editions %}
+            <a href="{{ year | prepend: "/" | append: "/" | relative_url }}">{{ year }}</a>{% unless forloop.last %} &middot;{% endunless %}
+          {% endfor %}
+          </small>
+        </p>
       </header>
 
 
       </header>
       <section>
+
+      {% if page.edition %}
+      <p><em>You are viewing the archived {{ page.edition }} edition of WOAH. <a href="{{ "/" | absolute_url }}">Go to the current edition.</a></em></p>
+      {% endif %}
 
       {{ content }}
 

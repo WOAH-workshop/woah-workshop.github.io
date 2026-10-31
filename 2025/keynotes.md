@@ -1,6 +1,9 @@
 ---
+edition: 2025
+description: "The 9th Workshop on Online Abuse and Harms (WOAH) at ACL 2025."
 layout: default
-title: Keynotes 2025
+title: Keynotes
+rank: 1
 ---
 
 # 🎤 Keynotes
