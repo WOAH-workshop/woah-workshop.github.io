@@ -39,8 +39,8 @@ You can access the full proceedings of the workshop [here (PDF)](https://aclanth
 
 ### 🥇 Best Paper Award (14:00 - 14:15)
 
-**Title:** TBA
-**Authors:** TBA
+**Title:** Who Let the Dogs Out? Auditing Dogwhistle Coverage in Hate Speech Benchmarks Across Target Groups
+**Authors:** Reva Hirave and Ryan Oet
 
 ---
 
@@ -94,9 +94,6 @@ You can access the full proceedings of the workshop [here (PDF)](https://aclanth
 
 - **SWARM: A Multilingual Human-Annotated Dataset for Russian Propaganda Detection in Search Engine Results**
   *Manuel Tonneau, Abhinav Dubey, Farhan Shaikh, Ilaria Vitulano, Martha Stolze, Hale Dedeoglu, Clara Riechert, Ella Kuka, Maryna Sydorova, Mykola Makhortykh and Elizaveta Kuznetsova*
-
-- **Who Let the Dogs Out? Auditing Dogwhistle Coverage in Hate Speech Benchmarks Across Target Groups**
-  *Reva Hirave and Ryan Oet*
 
 - **MMJail: Compounded Multilingual and Multi-Turn Vulnerabilities in LLM Bias Resistance**
   *Anisha Rao, Takyoung Kim and Dilek Hakkani-Tur*
